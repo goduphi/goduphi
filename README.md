@@ -1,9 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I hope you've been having a wonderful day :guitar: :notes: :ramen:
 
-**I'm Azmi (A Bangladeshi) - an aspiring Embedded Systems Engineer.**
+**I'm Azmi - an aspiring Embedded Systems Engineer.**
 
 ### About Me
-:mag_right: I love rewriting existing software to learn about how they have been built  
+:mag_right: I love rewriting existing software to learn more about how they have been built  
 :computer: My favorite languages are C and C++  
 :ramen: I can make $1 ramen gourmet  
 
